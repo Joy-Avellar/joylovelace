@@ -16802,7 +16802,11 @@
     }
   }
 
-.octo-cat {
+.texto-despedida {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    gap: 10px;
     width: 25px;
     height: 25px;
 }
