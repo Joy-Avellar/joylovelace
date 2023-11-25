@@ -16807,6 +16807,6 @@
     grid-template-columns: 1fr;
     justify-self: center;
     gap: 10px;
-    width: 25px;
-    height: 25px;
+    width: 80px;
+    height: 80px;
 }
