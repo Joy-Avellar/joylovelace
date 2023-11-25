@@ -16803,10 +16803,6 @@
   }
 
 .octo-cat {
-    display: grid;
-    grid-template-columns: 1fr;
-    justify-self: center;
-    gap: 10px;
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
 }
